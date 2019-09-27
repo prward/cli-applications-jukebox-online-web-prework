@@ -31,7 +31,7 @@ def exit_jukebox
 end
 
 def prompt()
-  puts 
+  puts "Please enter a command"
 
 exit_jukebox
 end
