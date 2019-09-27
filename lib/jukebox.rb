@@ -30,7 +30,7 @@ def exit_jukebox
   puts "Goodbye"
 end
 
-
+def prompt
 
 exit_jukebox
 end
