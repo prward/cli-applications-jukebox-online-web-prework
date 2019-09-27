@@ -34,5 +34,3 @@ def prompt()
   puts "Please enter a command:"
   gets.chomp
 
-exit_jukebox
-end
