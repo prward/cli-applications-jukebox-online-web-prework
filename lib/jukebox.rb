@@ -21,4 +21,7 @@ def play(my_songs)
 end
 
 def list(my_songs)
-  
+  my_songs.each_with_index do |song, index|
+    puts "#{index+1}. #{song}"
+  end
+end
