@@ -57,6 +57,5 @@ def prompt()
   end
 end
   
-  exit_jukebox()
-end
+  
 
