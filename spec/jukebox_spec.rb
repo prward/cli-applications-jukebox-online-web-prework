@@ -78,7 +78,7 @@ describe "CLI Jukebox" do
         exit_jukebox
       end
     end
-  
+  end
 
   
 
@@ -118,5 +118,5 @@ describe "CLI Jukebox" do
     end
 
   end
-
+end
 
