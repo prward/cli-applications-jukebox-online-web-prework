@@ -28,6 +28,7 @@ end
 
 def exit_jukebox
   puts "Goodbye"
+  exit_jukebox
 end
 
 def prompt()
