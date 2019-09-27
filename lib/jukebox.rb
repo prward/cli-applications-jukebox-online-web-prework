@@ -55,6 +55,7 @@ def prompt()
       input = prompt()
     end
   end
+end
   
   exit_jukebox()
 end
